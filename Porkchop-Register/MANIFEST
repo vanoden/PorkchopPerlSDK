@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Porkchop-Register.t
+lib/Porkchop/Register.pm

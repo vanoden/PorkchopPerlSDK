@@ -1,0 +1,6 @@
+Revision history for Perl extension Porkchop::Register.
+
+0.01  Tue Sep 16 18:57:06 2014
+	- original version; created by h2xs 1.23 with options
+		-AXc -n Porkchop::Register
+
